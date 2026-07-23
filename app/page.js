@@ -3,7 +3,7 @@
 import { useState } from "react";
 
 const gujaratColleges = [
-  { id: 1, name: "Indian Institute of Management (IIMA)", city: "Ahmedabad", type: "Management", fees: "₹25–30 Lakh", rating: "⭐⭐⭐⭐⭐" },
+  { id: 1, name: "Indianssssssssssss Institute of Management (IIMA)", city: "Ahmedabad", type: "Management", fees: "₹25–30 Lakh", rating: "⭐⭐⭐⭐⭐" },
   { id: 2, name: "Indian Institute of Technology (IIT)", city: "Gandhinagar", type: "Engineering", fees: "₹8–10 Lakh", rating: "⭐⭐⭐⭐⭐" },
   { id: 3, name: "Nirma University", city: "Ahmedabad", type: "Multi-disciplinary", fees: "₹2–4 Lakh/yr", rating: "⭐⭐⭐⭐" },
   { id: 4, name: "Maharaja Sayajirao University (MSU)", city: "Vadodara", type: "Multi-disciplinary", fees: "₹15k–80k/yr", rating: "⭐⭐⭐⭐" },
