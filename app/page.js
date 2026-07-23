@@ -61,7 +61,7 @@ export default function Home() {
             <div key={college.id} style={{ backgroundColor: "white", padding: "25px", borderRadius: "12px", border: "1px solid #e5e7eb", boxShadow: "0 2px 4px rgba(0,0,0,0.05)" }}>
               <h2 style={{ margin: "0 0 15px 0", fontSize: "1.3rem", color: "#1f2937" }}>{college.name}</h2>
               <div style={{ display: "flex", flexDirection: "column", gap: "10px", color: "#4b5563", fontSize: "0.95rem" }}>
-                <span>📍 <strong>City:</strong> {college.city}</span>
+                <span>📍 <strong>Cityzz:</strong> {college.city}</span>
                 <span>📚 <strong>Type:</strong> {college.type}</span>
                 <span>💰 <strong>Fees:</strong> {college.fees}</span>
                 <span>⭐ <strong>Rating:</strong> {college.rating}</span>
